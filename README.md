@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 TickFlow Stock Panel
+# 📈 A股智能量化工作台
 
 **自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台**
 
